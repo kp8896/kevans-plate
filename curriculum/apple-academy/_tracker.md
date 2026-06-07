@@ -7,6 +7,18 @@ hrs/course**.*
 > **IP rule (honored):** this folder stores course **structure, your progress, and
 > Toby's original synthesized study notes** — never verbatim Apple/MSU materials.
 
+> ⚠️ **Your real status = starting from zero.** You have not yet worked through any
+> course. Toby's guides are **companions, not substitutes** — they prime and
+> reinforce, but you still do every lesson + assessment + survey in D2L yourself.
+> 🟡 in this tracker = *Toby's guide ready*, **not** *course completed*.
+
+### Recommended loop per course (start-from-zero)
+1. **Pre-read Toby's guide** (10 min) — get the map + key terms before you start.
+2. **Work the course in D2L** (~1–4 hr) — lessons + the "Your turn" activities.
+3. **Self-quiz from the guide** (10 min) — answer from memory; anything shaky → re-watch.
+4. **Take the assessment(s) ≥ 70% + submit the survey** → credit.
+5. **Log it** in this tracker + `../30-progress-ledger.md` (date, score, confidence).
+
 ## Two ways the program is measured
 
 1. **Units (the LMS learning path):** Unit 1 Foundations → Unit 2 Process →
