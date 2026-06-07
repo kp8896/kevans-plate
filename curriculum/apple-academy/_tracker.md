@@ -15,10 +15,11 @@ hrs/course**.*
 2. **Badges (the credentials):** complete **5 / 10 / 15 courses** → Badge I / II /
    III. With 11 courses live today you can earn I & II now; III awaits ~4 more.
 
-**Completion model (per course, confirmed on Course 1):** finish all lessons **+
-pass the 2 module quizzes at ≥ 70% + submit the feedback survey** = credit.
-(In the LMS this is why Communications shows 19/22 — content done, 3 items =
-2 quizzes + survey remain.)
+**Completion model (per course):** finish all lessons **+ pass the assessment(s)
+at ≥ 70% + submit the feedback survey** = credit. **Assessment count varies:**
+Communications = **2** module assessments; Cybersecurity & SMT Success = **1**
+course assessment each. (This is why Communications shows 19/22 — content done,
+3 items = 2 quizzes + survey remain.)
 
 ## Unit / course map & progress
 
@@ -26,8 +27,12 @@ pass the 2 module quizzes at ≥ 70% + submit the feedback survey** = credit.
 | Course | Items | Status | Study guide |
 |---|---|---|---|
 | Communications & Presentation Skills | 22 | 🟡 **19/22** — content done; 2 quizzes + survey left | `communications-and-presentation-skills.md` ✅ |
-| Cybersecurity as a Competitive Advantage | 16 | ⬜ 0/16 — not received | — |
-| SMT Success | 18 | ⬜ 0/18 — not received | — |
+| Cybersecurity as a Competitive Advantage | 16 | 🟡 guide ✅ — ready to take in D2L (1 assessment ≥70% + survey) | `cybersecurity-as-a-competitive-advantage.md` ✅ |
+| SMT Success | 18 | 🟡 guide ✅ — ready to take in D2L (1 assessment ≥70% + survey) | `smt-success.md` ✅ |
+
+> ✅ **Unit 1 (Foundations) content fully captured** — all 3 study guides written.
+> Take the assessments + surveys in D2L to convert to credit. **3 of 5** courses
+> toward Badge I (need 2 more from Units 2–4).
 
 ### 🟦 Unit 2 of 4 — Process Topics
 | Course | Items | Status | Study guide |
