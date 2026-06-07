@@ -21,6 +21,10 @@ Plan C *contains* Plan B. Below are the additions.
 
 ---
 
+> 🍎 **Apple anchor fully scoped** (`apple-academy/`): all 11 guides + schedule.
+> Plan C completes **all 11 live courses (~36 hrs)** = Badges I & II, then adds
+> Badge III courses as MSU/Apple release them (~4 more to reach 15).
+
 ## Terms 1–6 — same as Plan B (~950 hrs)
 See `10` and `11`.
 

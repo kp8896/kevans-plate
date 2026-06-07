@@ -25,6 +25,8 @@ intake slot").
 | `21-grad-B-balanced.md` | Graduate **Plan B** — Robotics+ML, balanced (~11–17 months). |
 | `22-grad-C-broad.md` | Graduate **Plan C** — Robotics+ML, broad (~14–28 months) + accredited-MS bridge. |
 | `30-progress-ledger.md` | The **living memory** — what's done, certs earned, gaps, next action. This is the file the system updates as you learn. |
+| `apple-academy/` | **The anchor major, fully mapped.** Tracker, day-by-day study schedule, and Toby study guides for all **11** "Smart Manufacturing for American Business" courses. Start at `apple-academy/_tracker.md`. |
+| `anthropic/` | **The Anthropic track** — a 4-tier path (Fluency → Practitioner → Builder → **CCA-F** credential) with links, hours, and CCA-F prep. Start at `anthropic/_path.md`. |
 
 ---
 
@@ -75,8 +77,10 @@ Durations below; start whenever you choose (typically after the undergrad track)
 
 ## The non-negotiables baked in
 
-1. **Apple Manufacturing Academy is the anchor** — you're enrolled; it's free,
-   it's the major, and it issues MSU Credly badges. Every plan starts it early.
+1. **Apple Manufacturing Academy is the anchor — now fully scoped.** You're
+   enrolled; it's free; it's the major. All **11** live courses are mapped with
+   study guides + a day-by-day schedule in `apple-academy/`. Real workload ≈ **36
+   hrs total** → **Badges I & II in ~2 weeks** at 3 hr/day. Every plan starts here.
 2. **Anthropic is paramount** — AI Fluency (free cert) in every plan; the
    **Claude Certified Architect – Foundations (CCA-F)** proctored credential is
    the undergrad capstone from Plan B up.

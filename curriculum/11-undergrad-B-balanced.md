@@ -20,6 +20,9 @@ Plan B *contains* Plan A and extends it. Below are the additional terms.
 
 ---
 
+> 🍎 **Apple anchor fully scoped** (`apple-academy/`): all 11 guides + schedule.
+> Plan B targets **Badge II (10 courses ≈ 33 hrs, ~10 days @ 3 hr/day)**.
+
 ## Terms 1–3 — same as Plan A (~320 hrs)
 Foundations → Core Major (Apple + AI-900) → Google Project Management.
 See `10-undergrad-A-focused.md`.

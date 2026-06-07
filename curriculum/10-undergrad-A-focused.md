@@ -14,6 +14,11 @@ minimal sprawl.
 
 ---
 
+> 🍎 **Apple anchor is fully scoped.** All 11 courses have Toby study guides + a
+> day-by-day schedule in `apple-academy/`. Real time: **Badge I ≈ 15.5 hrs (~5
+> days @ 3 hr/day)**. The Term rows below fold into that — see
+> `apple-academy/_study-schedule.md` for the exact daily calendar.
+
 ## Term 1 — Foundations (~6 weeks, ~90 hrs)
 
 | Course | Hrs | Cert | Why it's here |
