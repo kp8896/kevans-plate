@@ -202,7 +202,7 @@ Supplementary reading for the Robotics+ML graduate track; pull as needed, not a 
 > from — the robotics/ML grad track. **This now has enough to be its own track.**
 > Recommended sequence: Anthropic Builder tier → **HF MCP** (cert) → **Microsoft
 > MCP** (build custom servers) → selected **IBM RAG** courses (#8, #9, #4, #7) →
-> **CCA-F** credential. Say the word and I'll build `agentic-ai/_path.md`.
+> **CCA-F** credential. ✅ **Built → see `agentic-ai/_path.md`** (4 tiers + capstone).
 
 **Previously-sourced resources (other second-brain folders):** nothing else
 outstanding per your review.

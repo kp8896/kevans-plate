@@ -27,6 +27,7 @@ intake slot").
 | `30-progress-ledger.md` | The **living memory** — what's done, certs earned, gaps, next action. This is the file the system updates as you learn. |
 | `apple-academy/` | **The anchor major, fully mapped.** Tracker, day-by-day study schedule, and Toby study guides for all **11** "Smart Manufacturing for American Business" courses. Start at `apple-academy/_tracker.md`. |
 | `anthropic/` | **The Anthropic track** — a 4-tier path (Fluency → Practitioner → Builder → **CCA-F** credential) with links, hours, and CCA-F prep. Start at `anthropic/_path.md`. |
+| `agentic-ai/` | **The Agentic AI / AI-engineering track** — multi-agent systems, MCP, RAG, orchestration → CCA-F. Built from the inbox finds (HF MCP, Microsoft MCP, IBM RAG, Stanford CS230). Start at `agentic-ai/_path.md`. |
 
 ---
 
