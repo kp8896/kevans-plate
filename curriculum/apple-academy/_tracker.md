@@ -29,8 +29,9 @@ hrs/course**.*
 
 **Completion model (per course):** finish all lessons **+ pass the assessment(s)
 at ≥ 70% + submit the feedback survey** = credit. **Assessment count varies:**
-Communications = **2** module assessments; all others so far (Cybersecurity, SMT
-Success, Automation, Lean, Preventive Maintenance) = **1** course assessment each.
+**2** module assessments — Communications, **Quality Fundamentals**.
+**1** course assessment — Cybersecurity, SMT Success, Automation, Lean, Preventive
+Maintenance, Quality Control Optimization, PFMEA Introduction.
 (This is why Communications shows 19/22 — content done, 3 items = 2 quizzes +
 survey remain.)
 
@@ -61,9 +62,14 @@ survey remain.)
 ### 🟦 Unit 3 of 4 — Quality Topics
 | Course | Items | Status | Study guide |
 |---|---|---|---|
-| Quality Fundamentals | ? | ⬜ | — |
-| Quality Control Optimization | ? | ⬜ | — |
-| PFMEA Introduction | ? | ⬜ | — |
+| Quality Fundamentals | 18 | 🟡 guide ✅ — ready in D2L (**2** assessments ≥70% + survey) | `quality-fundamentals.md` ✅ |
+| Quality Control Optimization | 14 | 🟡 guide ✅ — ready in D2L (1 assessment ≥70% + survey) | `quality-control-optimization.md` ✅ |
+| PFMEA Introduction | 19 | 🟡 guide ✅ — ready in D2L (1 assessment ≥70% + survey) | `pfmea-introduction.md` ✅ |
+
+> ✅ **Unit 3 (Quality) content fully captured.** Throughlines: Quality 4.0/Smart
+> Quality → ML/AI; Quality Control Optimization (Collect→Visualize→Alert→Execute +
+> image anomaly detection, digital twin) → Unit 4 + grad track; PFMEA's GenAI lesson
+> → Anthropic AI Fluency.
 
 ### 🟦 Unit 4 of 4 — Data Topics  *(your robotics/ML throughline)*
 | Course | Items | Status | Study guide |
