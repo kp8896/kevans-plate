@@ -22,7 +22,7 @@ course materials are NOT committed** (see disclaimer note below).*
 | Format | **Self-paced online** courses. Desktop/laptop recommended. |
 | Cost | **Free** (you're enrolled). |
 | Credential | **Stacked MSU/Apple digital badges**, issued within 10 business days after validation. |
-| Hours | Not published per course. Planning estimate ~3–5 hrs/course → Badge I ≈ 20 hrs, Badge II ≈ 45 hrs. Update with real times as you go (log in `30-progress-ledger.md`). |
+| Hours | **Confirmed ~3–4 hrs/course** (Communications course states this; read + concept-check assessments + survey) → **Badge I ≈ 15–20 hrs · Badge II ≈ 30–40 hrs · Badge III ≈ 45–60 hrs**. Live progress + Toby's study guides: `apple-academy/_tracker.md`. |
 
 ### The three stacked badges
 
