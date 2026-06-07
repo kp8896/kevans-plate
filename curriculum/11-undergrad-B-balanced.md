@@ -12,6 +12,10 @@ the **Anthropic Claude Certified Architect** credential.
 | **Cost** | ~$150–$500 (near-$0 achievable with financial aid + vouchers; the CCA-F exam is the one likely hard cost: $99 unless partner-network eligible) |
 | **Certificates earned** | Everything in Plan A **plus** Google Data Analytics · Anthropic *Building with the Claude API* · **Anthropic CCA-F (proctored)** · (elective) Microsoft Power BI or Google AI Professional |
 
+> **Apple anchor in Plan B:** continue past Badge I to **Badge II** (10 courses) —
+> add Quality Control Optimization, PFMEA Introduction, SMT Success, Cybersecurity
+> as a Competitive Advantage, and Preventive Maintenance (~15 hrs) during Terms 4–5.
+
 Plan B *contains* Plan A and extends it. Below are the additional terms.
 
 ---

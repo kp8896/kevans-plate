@@ -13,6 +13,10 @@ Robotics + ML track.
 | **Cost** | ~$200–$700 (much lower with financial aid; gen-ed electives audit free) |
 | **Certificates earned** | Everything in Plan B **plus** Stanford Code in Place · IBM Data Science *or* ML Specialization (paid cert) · Google AI Essentials + Prompting Essentials · gen-ed completions · a robotics "teaser" |
 
+> **Apple anchor in Plan C:** hold **Badge II** plus the 11th course (Communications
+> & Presentation Skills), then complete **Badge III** (15 courses) as MSU/Apple
+> release the remaining ~4 courses — slot them in as they appear.
+
 Plan C *contains* Plan B. Below are the additions.
 
 ---

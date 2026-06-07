@@ -10,18 +10,58 @@ on 2026-06-07. "Cert?" = grants a recognized certificate/badge. "Free?" notes th
 
 ---
 
-## ⭐ Anchor — Apple Manufacturing Academy (Michigan State University)
+## ⭐ Anchor — Apple Manufacturing Academy → "Smart Manufacturing for American Business" (Online)
+
+*Confirmed from the enrolled D2L course (d2l.msu.edu) on 2026-06-07. Program for
+SMEs; materials owned by Apple Inc. & MSU — **structure tracked here, verbatim
+course materials are NOT committed** (see disclaimer note below).*
 
 | Item | Detail |
 |---|---|
-| What | Free AI + smart-manufacturing training & consulting; Apple expertise + MSU delivery (Broad College EDP). First US academy, downtown Detroit. |
-| Format | Hybrid — in-person Detroit cohorts + **self-paced online** modules (launched Dec 2025, expanding). |
+| What | "Smart Manufacturing for American Business" — the online arm of the Apple Manufacturing Academy, delivered via MSU's D2L. |
+| Format | **Self-paced online** courses. Desktop/laptop recommended. |
 | Cost | **Free** (you're enrolled). |
-| Credential | **MSU-issued Credly digital badges** (per-topic micro-credentials). |
-| Topics | Technical: automation & robotics, predictive maintenance/IoT, quality control, **ML with vision**, AI in manufacturing, process optimization, lean/OEE, supply chain. Professional: project management, communication, leadership. |
-| Hours | Not officially published; modules are short (hours, not weeks). Plan ~40–60 hrs to clear meaningful badges. |
-| Links | https://manufacturingacademy.msu.edu/course-offerings · https://manufacturingacademy.msu.edu/faq · contact: manufacturingacademy@msu.edu |
-| Action | Log in, pull the live module list, and tell me which badges exist so I can map them exactly. |
+| Credential | **Stacked MSU/Apple digital badges**, issued within 10 business days after validation. |
+| Hours | Not published per course. Planning estimate ~3–5 hrs/course → Badge I ≈ 20 hrs, Badge II ≈ 45 hrs. Update with real times as you go (log in `30-progress-ledger.md`). |
+
+### The three stacked badges
+
+| Badge | Requirement | Achievable now? |
+|---|---|---|
+| **Smart Manufacturing for American Business I — Online** | Complete **5** courses | ✅ yes (11 courses live) |
+| **Smart Manufacturing for American Business II — Online** | Complete **10** courses | ✅ yes |
+| **Smart Manufacturing for American Business III — Online** | Complete **15** courses | ⏳ not yet — only 11 courses exist; more are coming |
+
+### Current course catalog (11 online courses)
+
+| Topic group | Courses |
+|---|---|
+| **Foundations** | Communications & Presentation Skills · Cybersecurity as a Competitive Advantage · SMT Success |
+| **Process** | Automation · Lean Manufacturing · Preventive Maintenance |
+| **Quality** | Quality Fundamentals · Quality Control Optimization · PFMEA Introduction |
+| **Data** | Machine Learning with Vision · Predictive Maintenance |
+
+> You choose any courses toward each badge threshold — pick by relevance to your
+> goals and prior experience. New badges/courses will be added over time.
+
+### Recommended path (aligned to your AI/robotics + ops goals)
+
+- **Badge I (first 5)** — the AI/data + core-process core:
+  1. Machine Learning with Vision *(Data — your robotics/ML throughline)*
+  2. Predictive Maintenance *(Data)*
+  3. Automation *(Process)*
+  4. Lean Manufacturing *(Process)*
+  5. Quality Fundamentals *(Quality)*
+- **Badge II (next 5)** — round out quality, foundations, resilience:
+  6. Quality Control Optimization · 7. PFMEA Introduction · 8. SMT Success ·
+  9. Cybersecurity as a Competitive Advantage · 10. Preventive Maintenance
+- **+1 toward Badge III:** Communications & Presentation Skills (then wait for
+  new courses to reach 15).
+
+### Disclaimer (honored)
+All training materials are owned by Apple Inc. & MSU and may not be distributed
+outside the course. This repo therefore stores only **structure + your progress +
+original synthesized notes** — never verbatim course content.
 
 ---
 

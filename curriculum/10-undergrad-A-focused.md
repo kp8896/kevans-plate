@@ -10,7 +10,7 @@ minimal sprawl.
 | **Target graduation (3 hr/day)** | **~Oct 18, 2026** |
 | **Range** | Dec 2026 (2 hr/day) → Sep 17, 2026 (4 hr/day) |
 | **Cost** | ~$0–$200 (near-$0 with Coursera financial aid + a free Microsoft exam voucher) |
-| **Certificates earned** | Anthropic AI Fluency · IBM AI Fundamentals badge · Apple/MSU Credly badges · Microsoft AI-900/AI-901 · Google Project Management |
+| **Certificates earned** | Anthropic AI Fluency · IBM AI Fundamentals badge · **Apple/MSU Smart Manufacturing Badge I** · Microsoft AI-900/AI-901 · Google Project Management |
 
 ---
 
@@ -21,7 +21,7 @@ minimal sprawl.
 | Anthropic — **AI Fluency: Framework & Foundations** | 3 | ✅ | The spine. The 4D framework becomes how you judge every AI output. |
 | Anthropic — Claude 101 + AI Capabilities & Limitations | 2 | ✅ | Know what the tools can/can't do before you lean on them. |
 | IBM SkillsBuild — **AI Fundamentals** (no code) | 15 | ✅ badge | Conceptual "how AI works" with zero coding — your technical-literacy primer. |
-| **Apple Manufacturing Academy** — Data track (ML with Vision, IoT & Predictive Maintenance) | ~30 | ✅ badge | Your major. Start the anchor immediately. |
+| **Apple/MSU Smart Manufacturing** — Machine Learning with Vision + Predictive Maintenance (Data) | ~10 | toward Badge I | Your major. Start the anchor immediately; these two carry your AI/ML throughline. |
 | Anthropic — Prompt Engineering Interactive Tutorial | ~10 | — | Practice, not a credential — makes everything after faster. |
 
 **Milestone:** a one-page brief — *"3 AI/ML opportunities in my manufacturing
@@ -31,7 +31,7 @@ context, and 2 places AI would fail."*
 
 | Course | Hrs | Cert | Why |
 |---|---|---|---|
-| **Apple Manufacturing Academy** — Process track (Automation, Lean, OEE) + Professional (PM, communication) | ~40 | ✅ badges | Finish the anchor's meaningful badges. |
+| **Apple/MSU Smart Manufacturing** — Automation + Lean Manufacturing + Quality Fundamentals → **earn Badge I** (5 courses) | ~15 | ✅ **Badge I** | Completes the 5-course threshold for *Smart Manufacturing for American Business I*. |
 | **Microsoft AI-900 / AI-901** Azure AI Fundamentals | ~20 | ✅ exam | Cheap, fast, name-brand AI cert. Use a free Virtual Training Day voucher. |
 | Spaced review of Term 1 "shaky" items | ~10 | — | Lock in literacy before the big cert. |
 
