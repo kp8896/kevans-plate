@@ -29,7 +29,8 @@ hrs/course**.*
 
 **Completion model (per course):** finish all lessons **+ pass the assessment(s)
 at ≥ 70% + submit the feedback survey** = credit. **Assessment count varies:**
-**2** module assessments — Communications, **Quality Fundamentals**.
+**2** module assessments — Communications, Quality Fundamentals, **Machine Learning
+with Vision, Predictive Maintenance**.
 **1** course assessment — Cybersecurity, SMT Success, Automation, Lean, Preventive
 Maintenance, Quality Control Optimization, PFMEA Introduction.
 (This is why Communications shows 19/22 — content done, 3 items = 2 quizzes +
@@ -74,16 +75,27 @@ survey remain.)
 ### 🟦 Unit 4 of 4 — Data Topics  *(your robotics/ML throughline)*
 | Course | Items | Status | Study guide |
 |---|---|---|---|
-| Machine Learning with Vision | ? | ⬜ | — |
-| Predictive Maintenance | ? | ⬜ | — |
+| Machine Learning with Vision | 19 | 🟡 guide ✅ — ready in D2L (**2** assessments ≥70% + survey) | `machine-learning-with-vision.md` ✅ |
+| Predictive Maintenance | 12 | 🟡 guide ✅ — ready in D2L (**2** assessments ≥70% + survey) | `predictive-maintenance.md` ✅ |
+
+> ✅ **Unit 4 (Data) content fully captured — ALL 11 COURSES NOW HAVE STUDY GUIDES.**
+> ML with Vision is the keystone (AI/ML/DL → computer vision → defect detection,
+> mini-CS231n); Predictive Maintenance = IoT + time-series change detection in
+> **Python** (ADWIN/KSWIN, moving-average). Both bridge straight into the grad
+> Robotics+ML track.
 
 ## Badge progress
 
-| Badge | Need | Courses complete | Status |
+| Badge | Need | Courses you've *completed* in D2L | Status |
 |---|---|---|---|
-| Smart Manufacturing I | 5 | 0 (1 course content-done, credit pending) | in progress |
-| Smart Manufacturing II | 10 | 0 | — |
-| Smart Manufacturing III | 15 | 0 | awaiting ~4 more courses to exist |
+| Smart Manufacturing I | 5 | 0 | ready — guides done for all 11; do 5 in D2L |
+| Smart Manufacturing II | 10 | 0 | ready — do 10 in D2L (all 11 guided) |
+| Smart Manufacturing III | 15 | 0 | needs ~4 more courses to *exist* (only 11 live) |
+
+> 📚 **Study-guide coverage: 11 / 11 courses (100%).** Credit still depends on *you*
+> completing each in D2L (lessons + assessment(s) ≥70% + survey). With all 11 live
+> courses done you'd earn **Badge I and Badge II**; **Badge III** waits on MSU/Apple
+> releasing ~4 more courses.
 
 **Time:** ~3–4 hr/course → Unit 1 ≈ 9–12 hr · Badge I ≈ 15–20 hr · Badge II ≈
 30–40 hr · Badge III ≈ 45–60 hr.
