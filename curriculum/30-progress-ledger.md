@@ -14,10 +14,53 @@ YYYY-MM-DD | <course/module> | DONE|IN-PROGRESS|SHAKY | cert ✅/— | confidenc
 
 ## Active selection
 
-- **Chosen undergrad plan:** _not set_ (A / B / C — decide with Claude)
-- **Chosen graduate plan:** _not set_ (A / B / C)
-- **Study pace:** _not set_ (target hrs/day) → start date: _____ → forecast grad: _____
-- **Coursera strategy:** _audit / financial aid / sprint-one-month / Plus_
+- **Undergrad plan:** ✅ **Plan A — Focused** (committed 2026-06-07). Decide B/C
+  *after* the calibration checkpoint below — from real data, not guesses.
+- **Graduate plan:** TBD (after undergrad).
+- **Start date:** **Mon 2026-06-15.**
+- **Study pace:** *calibrating* — target 2–3 hr/day, 6 days/wk. Confirm your true
+  rate after the Apple block (Week 1–2).
+- **Coursera strategy:** financial aid (≈ free) **or** a single-month sprint for the
+  one paid cert (Google PM). Everything else in Plan A is free.
+
+### Plan A — honest time estimate
+Total ≈ **220–290 hrs** (credentials + the learn-loop: pre-read → do → self-quiz →
+review → capstone). **⚠️ One cert dominates: Google Project Management ≈ 140 hrs ≈
+55% of the whole plan.**
+
+| Pace (6 days/wk) | Plan A duration | Finish (from Jun 15) |
+|---|---|---|
+| 1 hr/day | ~8.5–11 mo | ~Mar–Apr 2027 |
+| 2 hr/day | ~4–5.5 mo | ~Oct–Dec 2026 |
+| **3 hr/day (target)** | **~3–4 mo** | **~Sep–Oct 2026** |
+| 4 hr/day | ~2–3 mo | ~Aug–Sep 2026 |
+
+**Big lever:** swap Google PM → Google AI Essentials + Prompting (~20 hrs) cuts Plan
+A to **~120–160 hrs (roughly half)** → ~1.5–3 mo at 2–3 hr/day. (You lose the
+ACE-credit PM cert; you keep a focused AI credential set.)
+
+### Plan A sequence (what to actually do, in order)
+1. **Apple Badge I** (5 courses, ~17 hrs) — *Week 1–2, fully scheduled in
+   `apple-academy/_study-schedule.md`.* **← this is your calibration.**
+2. **Anthropic AI Fluency** Tier 1 (~5 hrs, free certs).
+3. **IBM SkillsBuild — AI Fundamentals** (~15 hrs, free badge, no code).
+4. **Microsoft AI-900/AI-901** (~20 hrs; free training, exam via free voucher).
+5. **Google Project Management** (~140 hrs) — *or* the swap above.
+6. **Capstone** — Operations Improvement brief (~10 hrs).
+
+### 🎯 Calibration checkpoint (the honest gauge — do this before committing to B/C)
+At the **end of the Apple block (~Jun 25)**, fill this in from your *actual* logs:
+
+| Metric | Value |
+|---|---|
+| Apple Badge I — real hours spent | ____ |
+| Real avg hrs/day | ____ |
+| Days actually studied / planned | ____ |
+| → Recompute Plan A finish, and B/C feasibility, from this | ____ |
+
+> **Decision rule:** if your real pace holds Plan A under ~4 months *and* you're
+> enjoying it → roll into B. If C's ~2-year horizon at your real pace still fits
+> your life → go for C. **Decide from these numbers, not from optimism today.**
 
 ---
 
