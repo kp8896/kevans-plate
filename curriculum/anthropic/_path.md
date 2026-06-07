@@ -40,6 +40,7 @@ Discernment, Diligence). **This tier alone satisfies Undergrad Plan A.**
 | Intro to Subagents | ~1 | ✅ | ⬜ |
 | Intro to Model Context Protocol (MCP) | ~1–2 | ✅ | ⬜ |
 | **Building with the Claude API** (flagship) | ~8 | ✅ | ⬜ |
+| ➕ **Hugging Face MCP Course** (built *with Anthropic*) — fuller MCP deep-dive | ~12–16 | ✅ free | ⬜ |
 
 *Outcome:* you understand agents, tools, MCP, and the API — at altitude. (Light
 code; fits your "understand, don't necessarily build" goal — pair with the
@@ -53,7 +54,14 @@ Apple **Predictive Maintenance** Python exposure.)
 **CCA-F domains (study weights):** agentic architecture & orchestration ~27% ·
 Claude Code config & workflows ~20% · prompt engineering & structured output ~20% ·
 tool design & MCP integration ~18% · context management. **Best prep = Tier 3**
-(especially *Building with the Claude API* + Claude Code/MCP/Agent Skills).
+(especially *Building with the Claude API* + Claude Code/MCP/Agent Skills). The
+**Hugging Face MCP Course** (free, Anthropic-partnered) directly covers the ~18%
+MCP/tool-design domain — strong CCA-F prep + a free certificate.
+
+> 🧭 **Optional "Agentic AI" mini-track** (from inbox triage): Tier 3 → HF MCP
+> Course → selected **IBM RAG & Agentic AI** courses (#8 multi-agent, #9 MCP, #4
+> advanced RAG, #7 LangGraph) → **CCA-F**. Pulls together your agent-building
+> interest into one credentialed path. Ask and I'll build it as its own file.
 
 ---
 

@@ -174,17 +174,23 @@ original synthesized notes** — never verbatim course content.
 
 ---
 
-## 📥 Inbox intake (`00-inbox`) — ✅ reviewed 2026-06-07
+## 📥 Inbox intake (`00-inbox`) — ✅ triaged 2026-06-07 (4 links)
 
-> **Status: triaged, nothing to add.** On review, the `00-inbox` held nothing
-> beyond what this catalog already covers — the named priority brands (Apple/MSU,
-> Anthropic, Google, Microsoft, IBM, Stanford, robotics/ML) were the real source
-> material, and they're all captured. No new links to dedupe or slot in.
->
-> If links accumulate later: paste them here (or commit a `links.txt`) and Same
-> will tag each (brand / topic / cert? / hours / level) and route it to a plan or
-> to "electives / someday."
+Donna-captured links, triaged against this catalog:
 
-**Previously-sourced resources (other second-brain folders):** also nothing
-outstanding to fold in per your review. If you later find a folder of saved
-resources, share the tree and I'll reconcile it against this catalog.
+| Link | Brand | Cert? | Verdict | Where it slots |
+|---|---|---|---|---|
+| **CS50's Intro to AI with Python** (cs50.harvard.edu/ai) | **Harvard** | edX verified cert (paid); free OCW | ✅ **ADD** | Undergrad **Plan C** technical-literacy elective + grad ML on-ramp. *Python/coding-heavy (prereq: CS50x or ~1 yr Python) — prestige + real "understand the code", but a step up; not on the "not-a-coder" critical path.* |
+| **Hugging Face MCP Course** (huggingface.co/learn/mcp-course) | **Hugging Face × Anthropic** | ✅ **free** (fundamentals after Unit 1; completion after Units 2–3) | ✅ **ADD** | **Anthropic track Tier 3** + **CCA-F prep** (MCP ≈18% of the exam). ~3–4 hr/wk, ~4 chapters. Built *with Anthropic* — reinforces "Intro to MCP." |
+| **IBM RAG and Agentic AI** Professional Cert (Coursera) | **IBM** | ✅ shareable (Coursera ~$49/mo) | ✅ **ADD (advanced)** | **Grad / AI-engineering elective** — *not* undergrad. 10 courses, ~100 hrs, **Advanced, Python required** (RAG, LangChain/LangGraph, CrewAI/AutoGen/BeeAI, MCP, capstone). **Use as a reference library**, pulling individual courses (esp. #8 multi-agent, #9 MCP, #4 advanced RAG, #7 LangGraph) — not linearly. |
+| **MIT 6.S191 Intro to Deep Learning** (introtodeeplearning.com) | **MIT** | ✗ (open materials) | ♻️ **DEDUPE** | Already in this catalog (grad ML bucket). *Confirmed 2026: now a for-credit MIT course (P/D/F); lectures/labs open-sourced; covers DL, CV, sequence models, deep RL, LLMs.* No new slot. |
+
+> 🧭 **Emerging thread — "Agentic AI / AI engineering."** Three of these (HF MCP,
+> IBM RAG/Agentic, and the Anthropic CCA-F) point at the same growing interest:
+> building **multi-agent systems, MCP, RAG, orchestration**. This is adjacent to —
+> but distinct from — the robotics/ML grad track. **Option:** spin up a dedicated
+> *Agentic AI* mini-track (Anthropic Builder tier → HF MCP → selected IBM RAG
+> courses → CCA-F). Say the word and I'll build it like the others.
+
+**Previously-sourced resources (other second-brain folders):** nothing else
+outstanding per your review.
