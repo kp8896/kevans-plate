@@ -174,21 +174,17 @@ original synthesized notes** — never verbatim course content.
 
 ---
 
-## 📥 Inbox intake slot (`00-inbox`)
+## 📥 Inbox intake (`00-inbox`) — ✅ reviewed 2026-06-07
 
-> I couldn't reach your Macs to read `00-inbox`. **Paste the links below** (or
-> commit a `links.txt` here) and I'll have Same triage them: dedupe against this
-> catalog, tag each (brand / topic / cert? / hours / level), and either slot them
-> into a plan or file them under "electives / someday."
+> **Status: triaged, nothing to add.** On review, the `00-inbox` held nothing
+> beyond what this catalog already covers — the named priority brands (Apple/MSU,
+> Anthropic, Google, Microsoft, IBM, Stanford, robotics/ML) were the real source
+> material, and they're all captured. No new links to dedupe or slot in.
+>
+> If links accumulate later: paste them here (or commit a `links.txt`) and Same
+> will tag each (brand / topic / cert? / hours / level) and route it to a plan or
+> to "electives / someday."
 
-```
-# PASTE 00-INBOX LINKS HERE
--
--
--
-```
-
-**Previously-sourced resources (moved to other second-brain folders):** you
-mentioned these exist but don't know where. Once I can see your workspace tree
-(commit a file listing, or paste the folder structure), I'll fold them in too so
-nothing already-collected gets re-sourced.
+**Previously-sourced resources (other second-brain folders):** also nothing
+outstanding to fold in per your review. If you later find a folder of saved
+resources, share the tree and I'll reconcile it against this catalog.
