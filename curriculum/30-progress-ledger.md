@@ -17,9 +17,10 @@ YYYY-MM-DD | <course/module> | DONE|IN-PROGRESS|SHAKY | cert ✅/— | confidenc
 - **Undergrad plan:** ✅ **Plan A — Focused** (committed 2026-06-07). Decide B/C
   *after* the calibration checkpoint below — from real data, not guesses.
 - **Graduate plan:** TBD (after undergrad).
-- **Start date:** **Mon 2026-06-15.**
-- **Study pace:** *calibrating* — target 2–3 hr/day, 6 days/wk. Confirm your true
-  rate after the Apple block (Week 1–2).
+- **Start date:** **began 2026-06-07** (Apple block — ahead of the original Jun 15 plan).
+- **Study pace:** ✅ **10 h/week — committed floor** (2026-06-07; push past it when a
+  week allows). Confirm your true rate after the Apple block (Week 1–2) and re-pace
+  off real logged hours.
 - **Coursera strategy:** financial aid (≈ free) or 7-day free-trial sprints for the
   short Google certs. Everything else in Plan A is free.
 - **Configuration:** ✅ **AI-focused** — Google PM swapped out for Google AI
@@ -30,12 +31,12 @@ Total ≈ **120–150 hrs** (credentials + the learn-loop: pre-read → do → s
 review → capstone). *No single course dominates anymore — the old Google PM (~140 hrs)
 is swapped for two ~10-hr Google AI certs.*
 
-| Pace (6 days/wk) | Plan A duration | Finish (from Jun 15) |
+| Pace | Plan A duration | Finish (from ~Jun 8) |
 |---|---|---|
-| 1 hr/day | ~4.5–6 mo | ~Nov–Dec 2026 |
-| 2 hr/day | ~2.5–3 mo | ~Sep 2026 |
-| **3 hr/day (target)** | **~1.5–2 mo** | **~early Aug 2026** |
-| 4 hr/day | ~1.2–1.5 mo | ~late Jul 2026 |
+| **10 h/wk (committed floor)** | **~12–15 wk** | **~late Sept 2026** |
+| 12 h/wk | ~10–13 wk | ~early–mid Sept 2026 |
+| 15 h/wk (if you push) | ~8–10 wk | ~mid-to-late Aug 2026 |
+| 20 h/wk | ~6–8 wk | ~early Aug 2026 |
 
 ### Plan A sequence (what to actually do, in order)
 1. **Apple Badge I** (5 courses, ~17 hrs) — *Week 1–2, fully scheduled in

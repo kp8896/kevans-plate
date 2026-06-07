@@ -17,8 +17,8 @@ Orientation for any Claude session opened on this repo (including Toby's).
 
 ## Active state (as of 2026-06-07)
 - **Plan:** Undergrad **Plan A — "Focused," AI-focused config** (Google PM swapped
-  for Google AI Essentials + Prompting). ~120–150 hrs; start Jun 15 2026; target
-  finish ~early Aug 2026 at 3 hr/day.
+  for Google AI Essentials + Prompting). ~120–150 hrs; began 2026-06-07; **10 h/week
+  committed floor** → target finish ~late Sept 2026 (earlier if he pushes past 10).
 - **First up:** Apple Manufacturing Academy → "Communications & Presentation Skills"
   (Day 1 of `curriculum/apple-academy/_study-schedule.md`). Kevan starts from ZERO.
 - **Calibration checkpoint:** ~Jun 25 (after Apple Badge I) → decide B/C from real
