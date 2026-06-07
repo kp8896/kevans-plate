@@ -17,9 +17,10 @@ hrs/course**.*
 
 **Completion model (per course):** finish all lessons **+ pass the assessment(s)
 at ≥ 70% + submit the feedback survey** = credit. **Assessment count varies:**
-Communications = **2** module assessments; Cybersecurity & SMT Success = **1**
-course assessment each. (This is why Communications shows 19/22 — content done,
-3 items = 2 quizzes + survey remain.)
+Communications = **2** module assessments; all others so far (Cybersecurity, SMT
+Success, Automation, Lean, Preventive Maintenance) = **1** course assessment each.
+(This is why Communications shows 19/22 — content done, 3 items = 2 quizzes +
+survey remain.)
 
 ## Unit / course map & progress
 
@@ -37,9 +38,13 @@ course assessment each. (This is why Communications shows 19/22 — content done
 ### 🟦 Unit 2 of 4 — Process Topics
 | Course | Items | Status | Study guide |
 |---|---|---|---|
-| Automation | ? | ⬜ not received | — |
-| Lean Manufacturing | ? | ⬜ | — |
-| Preventive Maintenance | ? | ⬜ | — |
+| Automation | 21 | 🟡 guide ✅ — ready in D2L (1 assessment ≥70% + survey) | `automation.md` ✅ |
+| Lean Manufacturing | 13 | 🟡 guide ✅ — ready in D2L (1 assessment ≥70% + survey) | `lean-manufacturing.md` ✅ |
+| Preventive Maintenance | 17 | 🟡 guide ✅ — ready in D2L (1 assessment ≥70% + survey) | `preventive-maintenance.md` ✅ |
+
+> ✅ **Unit 2 (Process) content fully captured.** Throughlines flagged: Automation →
+> robotics grad track; Lean → data/PM capstones; Preventive Maintenance → ML +
+> Unit 4 Predictive Maintenance.
 
 ### 🟦 Unit 3 of 4 — Quality Topics
 | Course | Items | Status | Study guide |
