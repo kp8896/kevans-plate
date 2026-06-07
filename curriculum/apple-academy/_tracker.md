@@ -17,6 +17,10 @@ concept-check assessments + end survey).*
 
 **Revised badge time:** Badge I ≈ 15–20 hrs · Badge II ≈ 30–40 hrs · Badge III ≈ 45–60 hrs.
 
+**Completion model (per course, confirmed on Course 1):** read all lessons **+
+pass the 2 module quizzes at ≥ 70% + submit the feedback survey**. All three are
+required for credit. (Treat as the standard pattern; confirm quiz count per course.)
+
 ## Course status
 
 | # | Course | Group | Status | Study guide | Time |
