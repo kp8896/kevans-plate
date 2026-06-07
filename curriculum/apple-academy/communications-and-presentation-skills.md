@@ -5,9 +5,13 @@
 > *These are Toby's original notes for active recall — not the course materials.
 > Do the actual lessons in D2L to earn completion.*
 
-**Materials received so far:** Section 1 (intro) + Section 2 (Prepare) + Section 3
-(Present). ⏳ Pending from you: Section 4 (Follow Up, 7 items) and Section 5
-(Conclusion, 2 items).
+**Materials received:** all five sections — study guide **complete**.
+
+> 🎓 **How you earn the award (in D2L):** complete all activities, **pass the two
+> module assessments with ≥ 70%**, and finish the **end-of-course survey**. Award
+> posts in D2L (and badges within ~10 business days after validation). So the two
+> graded checkpoints are what actually matter — the self-quiz below is built to
+> get you there.
 
 ## Course shape
 1. **Welcome** (1) · 2. **Prepare** (7) · 3. **Present** (5) · 4. **Follow Up** (7) · 5. **Conclusion** (2)
@@ -65,6 +69,30 @@ you carry it are weighted equally.
 **Toby's one-liner:** *Be warm AND competent; let the slides serve you; show the
 meaning, not the data dump.*
 
+## Module 4 — FOLLOW UP (closing the loop)
+
+**Big idea:** the talk isn't over when you stop talking. Land the message, handle
+questions well, run the room, and harvest feedback so the next one is better.
+
+- **4.2 Conclusion framework** — End strong: **review** your main idea + purpose,
+  **make time** for questions/feedback, **thank** the audience, and **repackage**
+  the message with a simple frame → **Context → Issue → Status → Next steps → Ask
+  (for help if needed).** *(Toby's mnemonic: **C-I-S-N-A**.)*
+- **4.3 Answering questions** — **Prepare** likely questions in advance; **listen
+  carefully**, then answer clearly; use the **"three-deep" method** (ask/answer to
+  three levels to reach the real issue); use questions to **reinforce your key
+  message**; **follow up** if you can't answer on the spot.
+- **4.4 Meeting management** — **Use an agenda** with time limits; balance
+  discussion vs. time; **politely redirect** drift; stay **flexible** (cut the
+  low-value parts); have **contingencies** and be ready to reschedule/follow up.
+- **4.5 Soliciting feedback** — *Everyone* needs it. Ask a **variety** of people
+  (peers, supervisors, newcomers to the topic); ask for **specific, honest**
+  input ("what worked / what to improve"); then **actually apply it** — each talk
+  a little better than the last.
+
+**Toby's one-liner:** *Close with C-I-S-N-A, answer three-deep, run the agenda,
+and mine feedback every time.*
+
 ---
 
 ## ✅ Active-recall self-quiz (answer before re-reading)
@@ -74,6 +102,10 @@ meaning, not the data dump.*
    both matters.
 4. A colleague brings you only a problem. What three things should they have added?
 5. Give two ways to keep a slide from becoming a "data dump."
+6. Spell out the C-I-S-N-A conclusion framework.
+7. What is the "three-deep" method for answering questions, and what's it for?
+8. Name three tactics for keeping a meeting on topic and on time.
+9. Why should even an experienced presenter solicit feedback, and how do you ask for it well?
 
 ## ✍️ "Your turn" practice checklist (do these for real)
 - [ ] Pick a real work topic; write its **purpose + desired outcome** in one sentence each.
@@ -91,6 +123,12 @@ as rehearsal for those.
 
 ---
 
-## ⏳ To finish this guide
-Send Section 4 (Follow Up) and Section 5 (Conclusion) and Toby will extend the
-notes + quiz. Then log it in `_tracker.md` and `../30-progress-ledger.md`.
+## ✅ Completion checklist (to bank the award)
+- [ ] Work through all lessons in D2L.
+- [ ] Score the self-quiz above ≥ 9/9 from memory.
+- [ ] **Pass both module assessments (≥ 70%).**
+- [ ] Complete the end-of-course survey.
+- [ ] Log the date + award in `_tracker.md` and `../30-progress-ledger.md`.
+
+*Guide complete. This is course **1 of 5** toward Apple Smart Manufacturing
+**Badge I**.*

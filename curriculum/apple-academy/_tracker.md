@@ -21,7 +21,7 @@ concept-check assessments + end survey).*
 
 | # | Course | Group | Status | Study guide | Time |
 |---|---|---|---|---|---|
-| 1 | Communications & Presentation Skills | Foundations | 🟡 materials received (modules 1–3 of 5) | `communications-and-presentation-skills.md` | 3–4 hr |
+| 1 | Communications & Presentation Skills | Foundations | 🟡 guide ✅ complete — ready to take in D2L (2 assessments ≥70% + survey) | `communications-and-presentation-skills.md` | 3–4 hr |
 | 2 | Cybersecurity as a Competitive Advantage | Foundations | ⬜ not received | — | ~3–4 hr |
 | 3 | SMT Success | Foundations | ⬜ | — | ~3–4 hr |
 | 4 | Automation | Process | ⬜ | — | ~3–4 hr |
