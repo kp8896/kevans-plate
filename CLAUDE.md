@@ -37,3 +37,14 @@ Orientation for any Claude session opened on this repo (including Toby's).
   selection. Ignore unrelated saved items (e.g., CS221/CS229/MIT robotics) unless
   they're in the active plan.
 - **Branch:** work on `claude/college-curriculum-plan-SCajr` unless told otherwise.
+
+## Toby integration (live as of 2026-06-07)
+- **Toby runs classroom sessions** and pulls study guides from this repo.
+- **Detailed session transcripts** live in Kevan's Mac workspace at
+  `10-projects/learning-curriculum/sessions/<date>-<course>.md` (PARA second-brain,
+  not this repo).
+- **Ledger ownership:** Toby writes the one-line entry to
+  `curriculum/30-progress-ledger.md` at session end (after Kevan confirms). **Claude
+  should NOT write the ledger during active study** — avoid merge collisions. Claude
+  owns curriculum *structure* (plans, guides, catalog, build log); Toby owns *session
+  logging*. Whoever writes the ledger should commit + push so it stays durable.
