@@ -20,24 +20,22 @@ YYYY-MM-DD | <course/module> | DONE|IN-PROGRESS|SHAKY | cert ✅/— | confidenc
 - **Start date:** **Mon 2026-06-15.**
 - **Study pace:** *calibrating* — target 2–3 hr/day, 6 days/wk. Confirm your true
   rate after the Apple block (Week 1–2).
-- **Coursera strategy:** financial aid (≈ free) **or** a single-month sprint for the
-  one paid cert (Google PM). Everything else in Plan A is free.
+- **Coursera strategy:** financial aid (≈ free) or 7-day free-trial sprints for the
+  short Google certs. Everything else in Plan A is free.
+- **Configuration:** ✅ **AI-focused** — Google PM swapped out for Google AI
+  Essentials + Prompting (committed 2026-06-07).
 
-### Plan A — honest time estimate
-Total ≈ **220–290 hrs** (credentials + the learn-loop: pre-read → do → self-quiz →
-review → capstone). **⚠️ One cert dominates: Google Project Management ≈ 140 hrs ≈
-55% of the whole plan.**
+### Plan A — honest time estimate (AI-focused configuration)
+Total ≈ **120–150 hrs** (credentials + the learn-loop: pre-read → do → self-quiz →
+review → capstone). *No single course dominates anymore — the old Google PM (~140 hrs)
+is swapped for two ~10-hr Google AI certs.*
 
 | Pace (6 days/wk) | Plan A duration | Finish (from Jun 15) |
 |---|---|---|
-| 1 hr/day | ~8.5–11 mo | ~Mar–Apr 2027 |
-| 2 hr/day | ~4–5.5 mo | ~Oct–Dec 2026 |
-| **3 hr/day (target)** | **~3–4 mo** | **~Sep–Oct 2026** |
-| 4 hr/day | ~2–3 mo | ~Aug–Sep 2026 |
-
-**Big lever:** swap Google PM → Google AI Essentials + Prompting (~20 hrs) cuts Plan
-A to **~120–160 hrs (roughly half)** → ~1.5–3 mo at 2–3 hr/day. (You lose the
-ACE-credit PM cert; you keep a focused AI credential set.)
+| 1 hr/day | ~4.5–6 mo | ~Nov–Dec 2026 |
+| 2 hr/day | ~2.5–3 mo | ~Sep 2026 |
+| **3 hr/day (target)** | **~1.5–2 mo** | **~early Aug 2026** |
+| 4 hr/day | ~1.2–1.5 mo | ~late Jul 2026 |
 
 ### Plan A sequence (what to actually do, in order)
 1. **Apple Badge I** (5 courses, ~17 hrs) — *Week 1–2, fully scheduled in
@@ -45,7 +43,7 @@ ACE-credit PM cert; you keep a focused AI credential set.)
 2. **Anthropic AI Fluency** Tier 1 (~5 hrs, free certs).
 3. **IBM SkillsBuild — AI Fundamentals** (~15 hrs, free badge, no code).
 4. **Microsoft AI-900/AI-901** (~20 hrs; free training, exam via free voucher).
-5. **Google Project Management** (~140 hrs) — *or* the swap above.
+5. **Google AI Essentials + Prompting Essentials** (~20 hrs, two certs).
 6. **Capstone** — Operations Improvement brief (~10 hrs).
 
 ### 🎯 Calibration checkpoint (the honest gauge — do this before committing to B/C)

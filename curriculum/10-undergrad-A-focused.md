@@ -4,13 +4,17 @@
 **Best if:** you want recognized certificates in your actual lane, quickly, with
 minimal sprawl.
 
+> ⚙️ **Configured (2026-06-07): AI-focused build.** Google *Project Management* has
+> been **swapped for Google AI Essentials + Prompting Essentials** to keep this
+> plan tight and fast. (Google PM is now the optional add-back in "Swap options.")
+
 | | |
 |---|---|
-| **Estimated workload** | ~320 hrs |
-| **Target graduation (3 hr/day)** | **~Oct 18, 2026** |
-| **Range** | Dec 2026 (2 hr/day) → Sep 17, 2026 (4 hr/day) |
-| **Cost** | ~$0–$200 (near-$0 with Coursera financial aid + a free Microsoft exam voucher) |
-| **Certificates earned** | Anthropic AI Fluency · IBM AI Fundamentals badge · **Apple/MSU Smart Manufacturing Badge I** · Microsoft AI-900/AI-901 · Google Project Management |
+| **Estimated workload** | **~120–150 hrs** |
+| **Target graduation (3 hr/day)** | **~early Aug 2026** (~1.5–2 mo from Jun 15) |
+| **Range** | ~Sep 2026 (2 hr/day) → ~late Jul 2026 (4 hr/day); ~Nov 2026 at 1 hr/day |
+| **Cost** | ~$0–$100 (near-$0 with Coursera financial aid + a free Microsoft exam voucher) |
+| **Certificates earned** | Anthropic AI Fluency · IBM AI Fundamentals badge · **Apple/MSU Smart Manufacturing Badge I** · Microsoft AI-900/AI-901 · **Google AI Essentials** · **Google Prompting Essentials** |
 
 ---
 
@@ -42,29 +46,32 @@ context, and 2 places AI would fail."*
 
 **Milestone:** sit and pass **AI-900/AI-901**. (Mind the Jun 30, 2026 retirement.)
 
-## Term 3 — Capstone Credential (~8 weeks, ~160 hrs)
+## Term 3 — AI Credentials + Capstone (~3 weeks, ~35 hrs)
 
 | Course | Hrs | Cert | Why |
 |---|---|---|---|
-| **Google Project Management** Professional Certificate | ~150 | ✅ (ACE credit) | Operations/process discipline that directly upgrades manufacturing work; carries college-credit recommendation; marquee brand. |
+| **Google AI Essentials** | ~10 | ✅ | Marquee-brand AI cert; practical AI-at-work skills. |
+| **Google Prompting Essentials** | ~10 | ✅ | Second Google cert; reinforces your Anthropic prompt work. |
 | Capstone brief | ~10 | — | See below. |
 
 **Capstone deliverable:** a 3–5 page *Operations Improvement Plan* for a real or
-hypothetical line — apply lean/OEE + an AI/ML use case + a project plan (charter,
-schedule, risks) using the Google PM toolkit.
+hypothetical line — apply **lean/OEE + an AI/ML use case + a simple project plan**
+(objective, steps, risks). Pulls together everything from the Apple major + your AI
+credentials.
 
 ---
 
 ## What you graduate with
-Five recognized credentials, a working AI vocabulary, MSU manufacturing badges,
-and a project-management certificate with college-credit value — in roughly a
-semester.
+**Six recognized credentials** (Anthropic AI Fluency, IBM AI Fundamentals badge,
+Apple/MSU Smart Manufacturing **Badge I**, Microsoft **AI-900/AI-901**, Google **AI
+Essentials**, Google **Prompting Essentials**), a working AI vocabulary, and your
+manufacturing major — in roughly **6–8 weeks** at 2–3 hr/day.
 
-## Swap options
-- Short on time? Replace Google PM with **Google AI Essentials + Prompting
-  Essentials** (~20 hrs, two certs) → graduation moves to **~Aug 2026**.
-- Want a data flavor instead of PM? Swap in **Google Data Analytics** (longer,
-  ~+60 hrs).
+## Swap options (add-backs if you want more)
+- **Add Google Project Management** (~140 hrs, ACE college-credit) → turns this into
+  the old "broad" Plan A; pushes graduation to ~Oct 2026 at 3 hr/day.
+- **Add a data cert** — Google Data Analytics (~180 hrs) — if you want data depth
+  (that's really Plan B territory).
 
 ## Natural next step
 This plan's literacy makes you ready for **Grad Plan A** later, or to expand into

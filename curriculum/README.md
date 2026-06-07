@@ -56,7 +56,7 @@ Planning assumptions: **start = Mon Jun 15, 2026**, **6 study days/week**, so
 
 | Plan | Scope | Est. hours | Target grad (3 hr/day) | Range (2 hr → 4 hr) |
 |---|---|---|---|---|
-| **A — Focused** | Manufacturing + AI, credentialed fast | ~320 | **Oct 2026** | Dec 2026 → Sep 2026 |
+| **A — Focused** ✅*active, AI-focused* | Manufacturing + AI, credentialed fast (Google PM swapped for Google AI certs) | ~120–150 | **~early Aug 2026** | ~Sep 2026 → ~late Jul 2026 |
 | **B — Balanced** | + Data, deeper AI, PM, CCA-F | ~950 | **Jun 2027** | Dec 2027 → Mar 2027 |
 | **C — Broad** | Bachelor's-equivalent breadth + grad bridge | ~1,500 | **Jan 2028** | Nov 2028 → Aug 2027 |
 
