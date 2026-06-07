@@ -174,9 +174,9 @@ original synthesized notes** — never verbatim course content.
 
 ---
 
-## 📥 Inbox intake (`00-inbox`) — ✅ triaged 2026-06-07 (6 links)
+## 📥 Inbox intake (`00-inbox`) — ✅ COMPLETE · triaged 2026-06-07 (7 links)
 
-Donna-captured links, triaged against this catalog:
+Donna-captured links, triaged against this catalog. **Inbox now fully cleared.**
 
 | Link | Brand | Cert? | Verdict | Where it slots |
 |---|---|---|---|---|
@@ -186,6 +186,7 @@ Donna-captured links, triaged against this catalog:
 | **MIT 6.S191 Intro to Deep Learning** (introtodeeplearning.com) | **MIT** | ✗ (open materials) | ♻️ **DEDUPE** | Already in this catalog (grad ML bucket). *Confirmed 2026: now a for-credit MIT course (P/D/F); lectures/labs open-sourced; covers DL, CV, sequence models, deep RL, LLMs.* No new slot. |
 | **Microsoft MCP for Beginners** (github.com/microsoft/mcp-for-beginners) | **Microsoft** | ✗ (open curriculum) | ✅ **ADD (reference)** | **Agentic AI / MCP track** — the deep "build custom MCP servers" reference (12 modules, 6 languages, PostgreSQL capstone). Coding-heavy, no cert. Use *after* the HF MCP course, when actually building servers (per your capture note). |
 | **MIT ML Training Resource List** (free textbooks) | **MIT / academic** | ✗ (books) | ✅ **ADD (reference texts)** | **Grad ML track reference shelf** — see list below. Gold-standard free texts for depth; not courses/certs. |
+| **Stanford CS230: Deep Learning** (YouTube, Aut 2025) | **Stanford + Andrew Ng** | ✗ on YouTube (cert = the paired Coursera spec) | ✅ **ADD (free supplement)** / partial ♻️ | **Grad ML track.** The Stanford *lecture* companion to the **Deep Learning Specialization** (same instructor) already in the catalog — so: do the **Specialization for the cert**, watch **CS230 for Stanford lecture depth** + 2025 topics. Notably Lec 5 **Deep RL** (→ robotics), Lec 8 **Agents/Prompts/RAG** (→ Agentic AI thread), Lec 10 **interpretability**. cs230.stanford.edu |
 
 ### 📖 Grad-track reference texts (from the MIT ML list — free online)
 Supplementary reading for the Robotics+ML graduate track; pull as needed, not a course path.
