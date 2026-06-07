@@ -16,6 +16,7 @@ intake slot").
 
 | File | What it is |
 |---|---|
+| `RUN-A-SESSION.md` | **How to fire Toby** — the copy-paste kickoff prompt + session script to start a classroom session. Use this to begin. |
 | `00-framework.md` | The **HOW** — the operating model. Who does what (you, Toby, Same, Claude), daily/weekly cadence, how progress becomes memory, certificate cost tactics, and the redundancy-removal map. **Read this first.** |
 | `01-course-catalog.md` | The **vetted master list** of every sourced course with brand, cost, certificate, hours, level, and URL. Includes the slot for your inbox links. |
 | `10-undergrad-A-focused.md` | Undergrad **Plan A** — short & focused (~3–6 months). |
