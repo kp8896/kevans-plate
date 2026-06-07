@@ -73,6 +73,8 @@ At the **end of the Apple block (~Jun 25)**, fill this in from your *actual* log
 ## Module log (newest at top)
 
 ```
+2026-06-07 | Apple Academy / Course 1: Communications & Presentation Skills | IN-PROGRESS | cert — | confidence 2/5 | pre-taught Modules 2+3; shaky on 4-part chain, warmth/competence, solution framework, slide discipline; D2L Sections 1-3 assigned
+
 # add entries here, e.g.:
 # 2026-06-18 | Anthropic AI Fluency: Framework & Foundations | DONE | cert ✅ | 4/5 | note: 4D framework = Delegation/Description/Discernment/Diligence; use it to judge any AI output.
 ```
@@ -83,7 +85,10 @@ At the **end of the Apple block (~Jun 25)**, fill this in from your *actual* log
 
 Items rated ≤3 confidence. Toby pulls one forward each week.
 
-- [ ] _none yet_
+- [ ] Purpose → Audience → Narrative → Recommendation (the four-part chain) — conf 2/5 · Apple C1 2026-06-07
+- [ ] Warmth vs. competence axes — conf 0/5 · Apple C1 2026-06-07
+- [ ] The three-part solution-presentation framework — conf 1/5 · Apple C1 2026-06-07
+- [ ] Slide discipline (keeping slides clean) — conf 1/5 · Apple C1 2026-06-07
 
 ---
 
