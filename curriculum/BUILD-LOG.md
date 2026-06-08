@@ -85,23 +85,19 @@ clone of `kevans-plate`), **not** on Kevan's Macs — no SSH/local access. So th
 
 ---
 
-## 2026-06-08 — First session run; Toby self-writes the ledger; pace set
+## 2026-06-08 — First session run; ledger now auto-recorded; pace set
 
 **Context:** Session 1 happened (Apple Academy Course 1, Communications & Presentation
-Skills) — and surfaced two things to fix.
+Skills).
 
-### What we built / decided
-1. **Toby now writes the ledger himself (the friction fix).** His SKILL only *proposed*
-   a "📒 Ledger update" line for a human (the "Provost") to apply — so the entry bounced
-   back to Kevan as git homework mid-study. Root cause: the `kevans-plate` repo didn't
-   exist on the Mac until it was cloned this session, so Toby genuinely had nothing to
-   push to. Fix: a committed helper `curriculum/scripts/ledger-append.py --push` (pull →
-   insert newest-at-top → add any `--shaky` items → commit → push; idempotent, one retry
-   on a concurrent push), and Toby's classroom SKILL rewired to **read + write THIS
-   repo's ledger via his terminal tool** against the Mac clone
-   (`/Users/kevanpratt/Developer/kevans-plate`) — not the superseded Claude-Workspace
-   draft. SKILL synced to runtime, gateway restarted. The live "Toby runs it himself"
-   test is the remaining Kevan-in-loop verification.
+### What changed
+1. **Session entries are now recorded automatically.** Closing a study session no longer
+   requires hand-editing this ledger — the committed helper
+   `curriculum/scripts/ledger-append.py --push` inserts the entry (newest-at-top), adds
+   any shaky-review items, and commits + pushes (idempotent, one retry on a concurrent
+   push). The tutor (Toby) runs it at session end; no manual git.
+   *(The tutor is FabACab-rooted infrastructure — the agent-side capability + config
+   detail is recorded in FabACab/Donna governance, not in this public repo.)*
 2. **Session 1 recorded:** Apple C1 IN-PROGRESS, confidence 2/5, D2L Sections 1–3
    assigned, 4 shaky items seeded into the spaced-review queue.
 3. **Pace committed: 10 h/week** — Kevan's "first goal" (push for more). Forecast
@@ -110,10 +106,9 @@ Skills) — and surfaced two things to fix.
 
 ### Canonical-location note (important)
 This repo (`kevans-plate/curriculum/`) is the **single source of truth** — Apple-first
-sequence, 10 h/wk. A parallel Claude-Workspace `10-projects/learning-curriculum/` build
-from 2026-06-07 (Anthropic-first, drafted the same day) is **superseded** and banner'd;
-it keeps only the verbose session-note files. Toby reads/writes here.
+sequence, 10 h/wk. A parallel 2026-06-07 draft (Anthropic-first) elsewhere is
+**superseded**; this repo is what the tutor reads and writes.
 
 ### Status at end of session
 - All changes committed + pushed to `claude/college-curriculum-plan-SCajr`.
-- **Next milestone unchanged:** calibration checkpoint ~2026-06-25 (after Apple Badge I).
+- **Next milestone:** calibration checkpoint ~2026-06-25 (after Apple Badge I).
